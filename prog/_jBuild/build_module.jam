@@ -1,3 +1,4 @@
+----build_module.jam----
 StrictCompile = yes ;
 TargetType  = lib ;
 TargetCodeName = $(ModulePrefix)-$(Module).framework ;

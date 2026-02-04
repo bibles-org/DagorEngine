@@ -1,3 +1,4 @@
+----autoscan.jam----
 include $(Root)/prog/_jBuild/jCommonRules.jam ;
 
 rule AutoscanBuildListsAndPull

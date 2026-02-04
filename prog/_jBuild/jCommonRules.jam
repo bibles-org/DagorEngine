@@ -1,3 +1,4 @@
+----jCommandRules.jam----
 # general-purpose python-based file stringifier
 if $(OS) = NT { PYTHON_EXE ?= $(_DEVTOOL)/python3/python3.exe ; PYTHON_EXE ?= $(GDEVTOOL)/python3/python3.exe ; }
 else if $(OS) in MACOSX { PYTHON_EXE ?= python3 ; }

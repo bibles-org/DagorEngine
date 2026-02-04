@@ -5,11 +5,11 @@
 /samples/dngSceneViewer/viewer*
 /samples/*/tools
 /samples/*/application.blk
-/outerSpace/develop
-/outerSpace/game*
-/outerSpace/tools
-/outerSpace/fmod_project
-/outerSpace/application.blk
+/samples/outerSpace/develop
+/samples/outerSpace/game*
+/samples/outerSpace/tools
+/samples/outerSpace/fmod_project
+/samples/outerSpace/application.blk
 /_output/
 /prog/platform.jam
 *.pyc
